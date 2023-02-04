@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/qoutesapp/static/css/main.85aeacb9.css",
+    "main.js": "/qoutesapp/static/js/main.2b308f7e.js",
+    "static/js/787.e5a7ea4e.chunk.js": "/qoutesapp/static/js/787.e5a7ea4e.chunk.js",
+    "index.html": "/qoutesapp/index.html",
+    "main.85aeacb9.css.map": "/qoutesapp/static/css/main.85aeacb9.css.map",
+    "main.2b308f7e.js.map": "/qoutesapp/static/js/main.2b308f7e.js.map",
+    "787.e5a7ea4e.chunk.js.map": "/qoutesapp/static/js/787.e5a7ea4e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.85aeacb9.css",
+    "static/js/main.2b308f7e.js"
+  ]
+}
